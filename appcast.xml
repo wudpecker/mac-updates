@@ -8,7 +8,7 @@
             <sparkle:version>0.2</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://wudpecker.github.io/mac-updates/Wudpecker.dmg" length="1503376" type="application/octet-stream" sparkle:edSignature="LHtO2AcD/ehR+sNMYQWTtT61bBp6BLtwJOrEYZB3livwvYgyI0rK9OetxKmbC4UH9zWsJ3csdDArEq3o4UdbCw=="/>
+            <enclosure url="https://github.com/wudpecker/mac-updates/releases/download/v0.2/Wudpecker.dmg" length="1503376" type="application/octet-stream" sparkle:edSignature="LHtO2AcD/ehR+sNMYQWTtT61bBp6BLtwJOrEYZB3livwvYgyI0rK9OetxKmbC4UH9zWsJ3csdDArEq3o4UdbCw=="/>
         </item>
     </channel>
 </rss>
