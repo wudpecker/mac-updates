@@ -3,12 +3,12 @@
     <channel>
         <title>Wudpecker</title>
         <item>
-            <title>0.4.1</title>
-            <pubDate>Tue, 14 May 2024 16:29:43 +0300</pubDate>
-            <sparkle:version>0.4.1</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wudpecker/mac-updates/releases/download/v0.4.1/Wudpecker.dmg" length="2815331" type="application/octet-stream" sparkle:edSignature="scMA5oBap7jY//7RP/ifwe1XnjZ6Yf0ThOL03fSi5lL6RDW4ymkSRI1MUSCxWloIZWh7Tz0qOpJtFMZH1ZekDg=="/>
+            <title>0.3</title>
+            <pubDate>Fri, 03 May 2024 10:46:20 +0300</pubDate>
+            <sparkle:version>0.3</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/wudpecker/mac-updates/releases/download/v0.3/Wudpecker.dmg" length="1504831" type="application/octet-stream" sparkle:edSignature="AEEZyNd+qVIFbP952/L28IMPMUi3WCvIRVYkEQj2qFG1bNzxsSUvO60sCNvldP0aaLPwpi5BUI0MMDBNndkuCg=="/>
         </item>
     </channel>
 </rss>
